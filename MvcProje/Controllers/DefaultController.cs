@@ -25,6 +25,7 @@ namespace MvcProje.Controllers
         public ActionResult Servis ()
         {
             return View();
+
         }
         public ActionResult Portfoy()
         {
